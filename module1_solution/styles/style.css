@@ -1,0 +1,11 @@
+.green {
+	color: green;
+	border-style:solid;
+	border-color: green;
+}
+
+.red {
+	color: red;
+	border-style:solid;
+	border-color: red;
+}
